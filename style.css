@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/hero-bg.png);
+	background-image: url(christopher-sardegna-bSmKli4OTIY-unsplash.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -700,4 +700,7 @@ p {
 		margin: 1.5%;
 	}
 }
+
+/* Journey */
+
 /* End  Media Query For Desktop */
